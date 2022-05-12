@@ -79,7 +79,7 @@
     <footer id="footer" style="height:80px;margin-top:-30px;">
         <div class="container">
             <div class="copyright">
-                &copy; Copyright <strong><span>Restaurantly</span></strong>. All Rights Reserved <br>
+                &copy; Copyright <strong><span>Barbearia</span></strong>. All Rights Reserved <br>
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                 <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
                 <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
